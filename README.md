@@ -41,8 +41,8 @@
 
 <div align="center" valing="top">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matheusferreiral&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Snake animation](https://github.com/matheusferreiral/matheusferreiral/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-![Snake animation](https://github.com/matheusferreiral/matheusferreiral/blob/output/github-contribution-grid-snake.svg)
+
