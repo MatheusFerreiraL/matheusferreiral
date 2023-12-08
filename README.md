@@ -2,7 +2,6 @@
 
 
 - 🖥️ Graduando em Engenharia de software
-- 🎮 Call of Duty, Valorant, CS, ...
 
 <div align="center">
   <a href="https://github.com/matheusferreiral">
