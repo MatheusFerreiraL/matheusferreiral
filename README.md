@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 
-- 🖥️ Graduando em Ciência da Computação e aluno do curso de Desenvolvimento de Software da Cubos Academy
+- 🖥️ Graduando em Engenharia de software
 - 🎮 Call of Duty, Valorant, CS, ...
 
 <div align="center">
